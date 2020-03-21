@@ -64,5 +64,6 @@ var AppConf = { 'appid': 'wx0aa456241abc9e8e', 'appsecret':'cb10ea69158ef5c786c9
 # 本月要做的任务
 - [] 完成图片
 - [x] 1111
+- [] 完成图片
 
 
